@@ -1,3 +1,5 @@
+New changes demo. New updates as well. 
+
 # [Flat UI Free](http://designmodo.github.io/Flat-UI/)
 
 [![Join the chat at https://gitter.im/designmodo/Flat-UI](https://badges.gitter.im/designmodo/Flat-UI.svg)](https://gitter.im/designmodo/Flat-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
